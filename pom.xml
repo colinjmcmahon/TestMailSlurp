@@ -22,7 +22,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>3.4.0</version>
+            <version>3.141.59</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
@@ -61,8 +61,6 @@
             <version>1.7.32</version>
             <scope>test</scope>
         </dependency>
-
-
 
     </dependencies>
 
